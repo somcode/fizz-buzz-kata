@@ -37,4 +37,5 @@ Which ``` X ``` could be any number.
 ## Running Tests
 
 Run `rspec` on your terminal
+
 <img width="530" alt="screen shot 2018-05-17 at 16 48 56" src="https://user-images.githubusercontent.com/34063826/40188607-3baaea8a-59f2-11e8-975d-eb3e2ec0a59b.png">
